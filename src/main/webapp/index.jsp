@@ -7,8 +7,8 @@
     <head>
         <title>Jenkins Deployment Training</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://www.Tensai-Agility.com/w3css/4/w3.css">
-        <link rel="stylesheet" href="https://www.Tensai-Agility.com/lib/w3-theme-teal.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
         <link rel="stylesheet" 
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -17,7 +17,7 @@
     </head>
     <body>
         <nav class="w3-sidebar w3-bar-block w3-collapse w3-animate-left w3-card" style="z-index:3;width:250px;" id="mySidebar">
-            <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.Tensai-Agility.com/images/Tensai-Agility.png" style="width:80%;"></a>
+            <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.w3schools.com/images/w3schools.png" style="width:80%;"></a>
             <a class="w3-bar-item w3-button w3-hide-large w3-large" href="javascript:void(0)" onclick="w3_close()">Close <i class="fa fa-remove"></i></a>
             <a class="w3-bar-item w3-button w3-teal" href="#">Home</a>
             <a class="w3-bar-item w3-button" href="#">Link 1</a>
@@ -44,8 +44,8 @@
                     <h1 class="w3-xxxlarge">W3.CSS</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
-                    <h2>What is W3.CSS?</h2>                  
-                    <p>W3.CSS is a modern CSS framework with built-in responsiveness: !!!</p>                  
+                    <h2>What is DevOps?</h2>                  
+                    <p>DevOps is a modern Agility framework with built-in responsiveness: !!!</p>                  
                     <ul class="w3-leftbar w3-theme-border" style="list-style:none">
                         <li>Smaller and faster than other CSS frameworks.</li>
                         <li>Easier to learn, and easier to use than other CSS frameworks.</li>
@@ -75,7 +75,7 @@
                         <h3 class="w3-center">Band Template</h3>
                         <div class="w3-content" style="max-width:800px">
                             <a 
-                                href="https://www.Tensai-Agility.com/w3css/tryw3css_templates_band.htm" 
+                                href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm" 
                                 target="_blank"  title="Band Demo">
                                     <img 
                                         src="./img_temp_band.jpg" 
@@ -85,7 +85,7 @@
                             <div class="w3-row">
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.Tensai-Agility.com/w3css/tryw3css_templates_band.htm" 
+                                        href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">Demo
@@ -93,7 +93,7 @@
                                 </div>
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.Tensai-Agility.com/w3css/tryit.asp?filename=tryw3css_templates_band&stacked=h" 
+                                        href="https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_band&stacked=h" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">More Templates »
@@ -112,7 +112,7 @@
                             <div class="w3-row">
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.Tensai-Agility.com/w3css/tryw3css_templates_blog.htm" 
+                                        href="https://www.w3schools.com/w3css/tryw3css_templates_blog.htm" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">Demo
@@ -120,7 +120,7 @@
                                 </div>
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.Tensai-Agility.com/w3css/tryit.asp?filename=tryw3css_templates_blog&stacked=h" 
+                                        href="https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_blog&stacked=h" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">More Templates »
