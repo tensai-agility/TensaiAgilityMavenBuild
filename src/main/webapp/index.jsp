@@ -7,8 +7,8 @@
     <head>
         <title>Jenkins Deployment Training</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
+        <link rel="stylesheet" href="https://www.Tensai-Agility.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.Tensai-Agility.com/lib/w3-theme-teal.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
         <link rel="stylesheet" 
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -17,7 +17,7 @@
     </head>
     <body>
         <nav class="w3-sidebar w3-bar-block w3-collapse w3-animate-left w3-card" style="z-index:3;width:250px;" id="mySidebar">
-            <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.w3schools.com/images/w3schools.png" style="width:80%;"></a>
+            <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.Tensai-Agility.com/images/w3schools.png" style="width:80%;"></a>
             <a class="w3-bar-item w3-button w3-hide-large w3-large" href="javascript:void(0)" onclick="w3_close()">Close <i class="fa fa-remove"></i></a>
             <a class="w3-bar-item w3-button w3-teal" href="#">Home</a>
             <a class="w3-bar-item w3-button" href="#">Link 1</a>
@@ -41,7 +41,7 @@
                     <span id="myIntro" class="w3-hide">W3.CSS: Introduction</span></p>
                 </div>                  
                 <header class="w3-container w3-theme" style="padding:64px 32px">
-                    <h1 class="w3-xxxlarge">Tensai-Agility</h1>
+                    <h1 class="w3-xxxlarge">Tensai-Agility v0.1</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
                     <h2>What is DevOps?</h2>                  
