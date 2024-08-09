@@ -43,22 +43,20 @@
                     <h1 class="w3-xxxlarge">Tensai-Agility</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
-                    <h2>What is DevOps?</h2>                  
-                    <p>DevOps is a modern Agility framework with built-in responsiveness: !!!</p>                  
+                    <h2>What is Tensai-Agility?</h2>                  
+                    <p>Tensai-Agility is a modern Agility framework with built-in responsiveness: !!!</p>                  
                     <ul class="w3-leftbar w3-theme-border" style="list-style:none">
-                        <li>Smaller and faster than other CSS frameworks.</li>
-                        <li>Easier to learn, and easier to use than other CSS frameworks.</li>
-                        <li>Uses standard CSS only (No jQuery or JavaScript library).</li>
-                        <li>Speeds up mobile HTML apps.</li>
-                        <li>Provides CSS equality for all devices. PC, laptop, tablet, and mobile:</li>
+						<li>Continuous application orchestration</li>
+						<li>Orchestrate continuous integration, delivery, and deployment of applications with shift-left principles, </li>
+						<li>including security and compliance at scale.</li>
                         <li>Adding more stuff to the list</li>
                         <li>And more text</li>
                     </ul>
                     <br>
                     <img src="./img_responsive.png" style="width:100%" alt="Responsive">                  
                     <hr>
-                    <h2>DevOps is Free</h2>
-                    <p>DevOps is free to use. No license is necessary.</p>                    
+                    <h2>Tensai-Agility is Free</h2>
+                    <p>Tensai-Agility is free to use. No license is necessary.</p>                    
                     <hr>
                     <h2>Easy to Use</h2>
                     <div class="w3-container w3-sand w3-leftbar">
@@ -74,7 +72,7 @@
                         <h3 class="w3-center">Band Template</h3>
                         <div class="w3-content" style="max-width:800px">
                             <a 
-                                href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm" 
+                                href="https://agility.tensai.run/index.html#/" 
                                 target="_blank"  title="Band Demo">
                                     <img 
                                         src="./img_temp_band.jpg" 
@@ -84,7 +82,7 @@
                             <div class="w3-row">
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm" 
+                                        href="https://tensai-agility.axapoc.be/" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">Demo
@@ -92,7 +90,7 @@
                                 </div>
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_band&stacked=h" 
+                                        href="https://tensai-agility.axapoc.be/" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">More Templates »
@@ -111,7 +109,7 @@
                             <div class="w3-row">
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.w3schools.com/w3css/tryw3css_templates_blog.htm" 
+                                        href="https://tensai-agility.axapoc.be/" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">Demo
@@ -119,7 +117,7 @@
                                 </div>
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_blog&stacked=h" 
+                                        href="https://tensai-agility.axapoc.be/" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">More Templates »
@@ -130,7 +128,7 @@
                     </div>                
                 </div>                  
                 <footer class="w3-container w3-theme" style="padding:32px">
-                    <p>Contact:DevOpsPractice@hexaware.com</p>
+                    <p>Contact:Tensai-AgilityPractice@hexaware.com</p>
                 </footer>                       
             </div>              
         <script type="text/javascript" src="./arquivojs.js"></script>
