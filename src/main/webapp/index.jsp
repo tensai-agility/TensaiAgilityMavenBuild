@@ -41,7 +41,7 @@
                     <span id="myIntro" class="w3-hide">W3.CSS: Introduction</span></p>
                 </div>                  
                 <header class="w3-container w3-theme" style="padding:64px 32px">
-                    <h1 class="w3-xxxlarge">W3.CSS</h1>
+                    <h1 class="w3-xxxlarge">Tensai-Agility</h1>
                 </header>                  
                 <div class="w3-container" style="padding:32px">                  
                     <h2>What is DevOps?</h2>                  
@@ -58,8 +58,8 @@
                     <br>
                     <img src="./img_responsive.png" style="width:100%" alt="Responsive">                  
                     <hr>
-                    <h2>W3.CSS is Free</h2>
-                    <p>W3.CSS is free to use. No license is necessary.</p>                    
+                    <h2>DevOps is Free</h2>
+                    <p>DevOps is free to use. No license is necessary.</p>                    
                     <hr>
                     <h2>Easy to Use</h2>
                     <div class="w3-container w3-sand w3-leftbar">
