@@ -7,8 +7,8 @@
     <head>
         <title>Jenkins Deployment Training</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="https://www.Tensai-Agility.com/w3css/4/w3.css">
-        <link rel="stylesheet" href="https://www.Tensai-Agility.com/lib/w3-theme-teal.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-teal.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
         <link rel="stylesheet" 
             href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
@@ -17,7 +17,7 @@
     </head>
     <body>
         <nav class="w3-sidebar w3-bar-block w3-collapse w3-animate-left w3-card" style="z-index:3;width:250px;" id="mySidebar">
-            <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.Tensai-Agility.com/images/w3schools.png" style="width:80%;"></a>
+            <a class="w3-bar-item w3-button w3-border-bottom w3-large" href="#"><img src="https://www.w3schools.com/images/w3schools.png" style="width:80%;"></a>
             <a class="w3-bar-item w3-button w3-hide-large w3-large" href="javascript:void(0)" onclick="w3_close()">Close <i class="fa fa-remove"></i></a>
             <a class="w3-bar-item w3-button w3-teal" href="#">Home</a>
             <a class="w3-bar-item w3-button" href="#">Link 1</a>
@@ -68,24 +68,24 @@
                         </p>
                     </div>                  
                     <hr>
-                    <h2>Tensai-Agility Templates</h2>                    
-                    <p>We have created some responsive Tensai-Agility templates for you to use.</p>
+                    <h2>W3.CSS Web Site Templates</h2>                    
+                    <p>We have created some responsive W3CSS templates for you to use.</p>
                     <p>You are free to modify, save, share, use or do whatever you want with them:</p>                                        
                     <div class="w3-panel w3-light-grey w3-padding-16 w3-card">
-                        <h3 class="w3-center">IaC Template</h3>
+                        <h3 class="w3-center">Band Template</h3>
                         <div class="w3-content" style="max-width:800px">
                             <a 
-                                href="https://www.Tensai-Agility.com/w3css/tryw3css_templates_band.htm" 
-                                target="_blank"  title="IaC Demo">
+                                href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm" 
+                                target="_blank"  title="Band Demo">
                                     <img 
                                         src="./img_temp_band.jpg" 
                                         style="width:98%;margin:20px 0" 
-                                        alt="IaC Template">
+                                        alt="Band Template">
                             </a><br>
                             <div class="w3-row">
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.Tensai-Agility.com/w3css/tryw3css_templates_band.htm" 
+                                        href="https://www.w3schools.com/w3css/tryw3css_templates_band.htm" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">Demo
@@ -93,7 +93,7 @@
                                 </div>
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.Tensai-Agility.com/w3css/tryit.asp?filename=tryw3css_templates_band&stacked=h" 
+                                        href="https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_band&stacked=h" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">More Templates »
@@ -103,16 +103,16 @@
                         </div>
                     </div>                  
                     <div class="w3-container w3-padding-16 w3-card" style="background-color:#eee">
-                        <h3 class="w3-center">DevSecOps Template</h3>
+                        <h3 class="w3-center">Blog Template</h3>
                         <div class="w3-content" style="max-width:800px">
                             <img 
                                 src="./img_temp_blog.jpg" 
                                 style="width:98%;margin:20px 0" 
-                                alt="DevSecOps Template"><br>
+                                alt="Blog Template"><br>
                             <div class="w3-row">
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.Tensai-Agility.com/w3css/tryw3css_templates_blog.htm" 
+                                        href="https://www.w3schools.com/w3css/tryw3css_templates_blog.htm" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">Demo
@@ -120,7 +120,7 @@
                                 </div>
                                 <div class="w3-col m6">
                                     <a 
-                                        href="https://www.Tensai-Agility.com/w3css/tryit.asp?filename=tryw3css_templates_blog&stacked=h" 
+                                        href="https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_blog&stacked=h" 
                                         target="_blank" 
                                         class="w3-button w3-padding-large w3-dark-grey" 
                                         style="width:98.5%">More Templates »
