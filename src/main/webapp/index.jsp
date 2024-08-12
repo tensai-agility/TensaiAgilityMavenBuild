@@ -25,6 +25,7 @@
             <a class="w3-bar-item w3-button" href="#">Link 3</a>
             <a class="w3-bar-item w3-button" href="#">Link 4</a>
             <a class="w3-bar-item w3-button" href="#">Link 5</a>
+	    <a class="w3-bar-item w3-button w3-teal" href="#">DevOpsPractice@hexaware.com</a>	
             <div>
                 <a class="w3-bar-item w3-button" onclick="myAccordion('demo')" href="javascript:void(0)">Dropdown <i class="fa fa-caret-down"></i></a>
                 <div id="demo" class="w3-hide">
@@ -33,8 +34,7 @@
                     <a class="w3-bar-item w3-button" href="#">Link</a>
                 </div>
             </div>
-	    <a class="w3-bar-item w3-button w3-teal" href="#">DevOpsPractice@hexaware.com</a>
-        </nav>                  
+	</nav>                  
         <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" id="myOverlay"></div>                  
             <div class="w3-main" style="margin-left:250px;">                  
                 <div id="myTop" class="w3-container w3-top w3-theme w3-large">
