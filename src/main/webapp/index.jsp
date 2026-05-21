@@ -132,6 +132,7 @@
                 </div>                  
                 <footer class="w3-container w3-theme" style="padding:32px">
                     <p>Contact : DevOpsPractice@hexaware.com </p>
+					<p>Licence: Hexaware </p>
                 </footer>                       
             </div>              
         <script type="text/javascript" src="./arquivojs.js"></script>
